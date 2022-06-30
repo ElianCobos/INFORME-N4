@@ -29,58 +29,80 @@
 ### 2. Visualice y trace los siguientes circuitos en serie-paralelo:
 ### (a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
 ### (b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
+![imagen](https://user-images.githubusercontent.com/105674953/176731293-5b261d8b-ea01-49a6-b010-36ead32c01a9.png)
 
 ### 4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
+![imagen](https://user-images.githubusercontent.com/105674953/176731330-f6bad6a5-4b5d-43bf-8813-71cd81414b11.png)
 
 ### 6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.
 
 ### 8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Æ. Uno de los resistores es de 1.0 kÆ. ¿Cuál es el otro resistor?
 
 ### 10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
+![imagen](https://user-images.githubusercontent.com/105674953/176731376-9aa8ee81-03c0-485d-8550-96d30d7dd40a.png)
 
 ### 12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje.
+![imagen](https://user-images.githubusercontent.com/105674953/176731398-ff1fccc0-9e67-455a-a105-c492b57a57c5.png)
 
 ### 14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
+![imagen](https://user-images.githubusercontent.com/105674953/176731438-d481a6b8-a608-4be6-be9e-6284b7907e84.png)
 
 ### 16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
 
 ### 18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
+![imagen](https://user-images.githubusercontent.com/105674953/176731467-46a1e079-5082-46a1-9681-199a0d1325ca.png)
 
 ### 20. Determine el voltaje, VAB, en la figura 7-69.
 
 ### 22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC, RAD, RAE, RAF, y RAG).
 
 ### 24. Determine el valor de cada resistor mostrado en la figura 7-73.
+![imagen](https://user-images.githubusercontent.com/105674953/176731534-8e78ce1b-6546-4b39-8161-162e7a957ae0.png)
 
 ### 26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kÆ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kÆ a la más alta de las salidas, ¿cuál será su valor con carga?
+![imagen](https://user-images.githubusercontent.com/105674953/176731554-29521448-a1ab-47ef-bbfc-8ee947fe13ef.png)
 
 ### 28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kÆ conectada de A a B, ¿cuál es el voltaje de salida?
+![imagen](https://user-images.githubusercontent.com/105674953/176731592-eb1e0e92-2af4-4885-9940-445bbda014eb.png)
 
 ### 30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kÆ, ¿cuál es la corriente extraída?
+![imagen](https://user-images.githubusercontent.com/105674953/176731604-acd788bf-4831-4fd4-bc0b-564834687073.png)
 
 ### 32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor.
+![imagen](https://user-images.githubusercontent.com/105674953/176731630-af7d474d-a106-48d6-bee3-cb408d7f07aa.png)
 
 ### 34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kÆ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA.
+![imagen](https://user-images.githubusercontent.com/105674953/176731656-2353f305-92ef-4dbe-9b81-dc3a4747bae5.png)
 
 ### 36. Determine la resistencia interna de un voltímetro de 20,000 Æ/V en cada uno de los siguientes ajustes de intervalo.
+![imagen](https://user-images.githubusercontent.com/105674953/176731689-370a3756-d9df-4ce0-b3d1-ac6538a681e7.png)
 
 ### 38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).
+![imagen](https://user-images.githubusercontent.com/105674953/176731726-2478cd51-fb8a-4672-aac6-4fcef31734dc.png)
 
 ### 40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.
+![imagen](https://user-images.githubusercontent.com/105674953/176731762-d27b0cb4-1b79-4ced-9bbd-d5cf7348ae3a.png)
 
 ### 42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
+![imagen](https://user-images.githubusercontent.com/105674953/176731784-ae8c8420-d923-4d8e-a826-7e842d563686.png)
 
 ### 44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones:
+![imagen](https://user-images.githubusercontent.com/105674953/176731803-4eeb17f2-2484-4b92-98b0-36c038c722de.png)
 
 ### 46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV  18 kÆ y R2/R4  0.02. ¿Cuál es RX?
+![imagen](https://user-images.githubusercontent.com/105674953/176731821-5e8a5248-0114-4e20-ae99-3ffeb3085954.png)
 
 ### 48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60oC. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
+![imagen](https://user-images.githubusercontent.com/105674953/176731847-468a0884-2542-40d2-8fd0-d45ab4b031f2.png)
 
 ### 50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
+![imagen](https://user-images.githubusercontent.com/105674953/176731863-4e1eef08-ed22-4586-a71e-e3a2fda1606c.png)
 
 ### 52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
+![imagen](https://user-images.githubusercontent.com/105674953/176731881-6d54355f-3de6-4cdd-8c7f-e0fef651708d.png)
 
 ### 54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
+![imagen](https://user-images.githubusercontent.com/105674953/176731907-99c097fb-d481-418e-9045-67227b1bf04c.png)
 
 ## CAP 8
 
@@ -121,9 +143,7 @@
 ### 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
 
 ## 4. Video
-
-
-
+https://youtu.be/F2xRa_L-xvA
 
 ## 5. Conclusiones
 #### -	En conclusion la ley de Ohm y las leyes de kirchhoff son parte fundamental en los ejercicios de los circuitos planteados ya sean en serie o en paralelo estos siempre estan presentes es por ello que se estudiar estas leyes de forma meticulosa ya que siempre estan en los ejercicios.
