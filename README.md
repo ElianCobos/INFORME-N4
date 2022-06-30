@@ -1,8 +1,8 @@
 # INFORME-N4
 ## 1. Objetivos
-#### 1.- Identificar con que tipo de circuito estoy trabajando y cuales son los metodos de resolucion de estos
-#### 2.- Aplicar la ley Ohm en todos los circuitos ya sea en serie o en paralelo
-#### 3.- Aplicar las leyes de kirchhoff en ejercicios de circuitos en serie y en paralelos
+#### 1.- Identificar las relaciones y caracteristicas de los circuitos serie-paralelo
+#### 2.- Aplicar los el teorema de superposicion de analisis para la resolucion de ejercicios, haciendo uso de los conocimientos previos ya estuidiados.
+#### 3.- Aplicar el teorema de norton para la simplificacion de circuitos electricos
 ## 2. Marco Teorico
 ### IDENTIFICACION DE RELACIONES EN SERIE PARALELO
 ![imagen](https://user-images.githubusercontent.com/105674953/176579755-dde27dc9-cfca-4c64-85e0-93cbe05ebbd2.png)
